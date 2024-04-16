@@ -1,5 +1,5 @@
-# mikrotik_get_public_ip
-Scripts to obtain public IP on nated Mikrotik Router
+
+Scripts to obtain public IP on nated Mikrotik Router and adding to address list to create dinamic Hairpin NAT rules for Routers Behind NAT 
 
 # mkt_get_public_ip.sh  
 
